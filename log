@@ -1,0 +1,7 @@
+[2017-05-17 17:01:12 -0400] [11941] [INFO] Starting gunicorn 19.7.1
+[2017-05-17 17:01:12 -0400] [11941] [INFO] Listening at: http://0.0.0.0:5000 (11941)
+[2017-05-17 17:01:12 -0400] [11941] [INFO] Using worker: sync
+[2017-05-17 17:01:12 -0400] [11944] [INFO] Booting worker with pid: 11944
+[2017-05-17 17:01:24 -0400] [11941] [INFO] Handling signal: int
+[2017-05-17 21:01:24 +0000] [11944] [INFO] Worker exiting (pid: 11944)
+[2017-05-17 17:01:25 -0400] [11941] [INFO] Shutting down: Master
